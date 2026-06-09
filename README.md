@@ -1,6 +1,3 @@
-
-# Manipulação de Vetores em JavaScript
-
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SENAI](https://img.shields.io/badge/SENAI-Estudos-blue?style=for-the-badge)
 
@@ -10,14 +7,13 @@ Este repositório foi criado para aplicar os conceitos fundamentais de LOPAL (L�
 
 ## Exercícios Desenvolvidos
 
-### Exercício 1: Análise de Maior Idade e Posição
- Crie um programa que leia a idade de 4 pessoas e guarde-as em um vetor. No final, mostre: Qual foi a maior idade digitada. Em que posição digitamos a maior idade. 
+### Exercício 1: Média de Idade de 8 Pessoas
+Crie um programa que leia a idade de 8 pessoas e guarde-as em um vetor. No final, o programa realiza o cálculo da soma de todas as idades inseridas e exibe na tela qual é a **média de idade** das pessoas cadastradas.
 
-### Exercício 2: Filtro de Funcionárias Mulheres
-Faça um programa que leia o nome, o sexo e o salário de 5 funcionários e guarde esses dados em três vetores. No final, mostre uma listagem contendo apenas os dados das funcionárias mulheres que ganham mais de R$5 mil. 
+### Exercício 2: Filtro de Posições (Maiores de 25 anos)
+Crie um programa que leia a idade de 7 pessoas e guarde-as em um vetor. No final, o sistema varre o array de forma manual e mostra para o usuário **em quais posições** (índices) foram cadastradas pessoas com mais de 25 anos.
 
-### Exercício 3: Análise Dinâmica de Alturas (Maior e Menor)
-Desenvolva um programa que colete e armazene os nomes e as alturas de diferentes pessoas em um vetor. O programa deve permitir que o usuário insira quantas alturas desejar e só deve ser encerrado quando o usuário optar por parar. 
-Ao final, exiba a maior altura, a menor altura e a quem pertencem respectivamente. 
-
-
+### Exercício 3: Análise de Números e Múltiplos de 10
+Escreva um programa que leia 15 números e guarde-os em um vetor. No final, o programa realiza duas ações de saída utilizando o `alert`:
+1. Mostra o vetor inteiro na tela (todos os números digitados).
+2. Mostra em quais posições específicas foram digitados valores que são **múltiplos de 10** (divisíveis por 10 com resto zero).
