@@ -8,18 +8,16 @@ Este repositório foi criado para aplicar os conceitos fundamentais de LOPAL (L�
 
 ---
 
-## Requisito Especial
-
-**Importante:** Todos os programas foram desenvolvidos em JavaScript  **sem utilizar funções nativas de arrays**, utilizando apenas estruturas de repetição (`for`, `while`) e controle de fluxo para manipulação manual dos índices.
-
----
-
 ## Exercícios Desenvolvidos
 
-### Exercício 1: Crie um programa que leia a idade de 8 pessoas e guarde-as em um vetor. No final, mostre: Qual é a média de idade das pessoas cadastradas. .
+### Exercício 1: Análise de Maior Idade e Posição
+ Crie um programa que leia a idade de 4 pessoas e guarde-as em um vetor. No final, mostre: Qual foi a maior idade digitada. Em que posição digitamos a maior idade. 
 
-### Exercício 2: Crie um programa que leia a idade de 7 pessoas e guarde-as em um vetor. No final, mostre: Em quais posições temos pessoas com mais de 25 anos.
+### Exercício 2: Filtro de Funcionárias Mulheres
+Faça um programa que leia o nome, o sexo e o salário de 5 funcionários e guarde esses dados em três vetores. No final, mostre uma listagem contendo apenas os dados das funcionárias mulheres que ganham mais de R$5 mil. 
 
-### Exercício 3: Escreva um programa que leia 15 números e guarde-os em um vetor. No final, mostre o vetor inteiro na tela e, em seguida, mostre em que posições foram digitados valores que são múltiplos de 10.
+### Exercício 3: Análise Dinâmica de Alturas (Maior e Menor)
+Desenvolva um programa que colete e armazene os nomes e as alturas de diferentes pessoas em um vetor. O programa deve permitir que o usuário insira quantas alturas desejar e só deve ser encerrado quando o usuário optar por parar. 
+Ao final, exiba a maior altura, a menor altura e a quem pertencem respectivamente. 
 
 
